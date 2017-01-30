@@ -27,3 +27,6 @@ Discussing
 
 Icon
 ----
+
+## License
+[The MIT License](https://github.com/provocatively/thinking-in-java/blob/master/LICENSE)
